@@ -1,0 +1,5 @@
+Ordem de procedêncoa do python em operadores aritiméticos
+1 ()
+2 **
+3 * , / , // , %
+4 + , -
